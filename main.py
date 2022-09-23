@@ -1,6 +1,6 @@
 resultado = ""
 while resultado == "":
-    print("Ingresa un numero superior a 0")
+    print("Ingresa un numero superior a 0 para hacer la descomposición")
     numero = int(input())
     if numero == 0:
        print("Es un 0")
